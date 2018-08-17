@@ -1,4 +1,4 @@
-baseurl: "https://pycon.id/"
+baseurl: "http://pycon.id/"
 title: "Pycon Indonesia 2018"
 canonifyurls: true
 theme: "hugo-conference"
@@ -15,8 +15,8 @@ params:
   Address: ""
   City:  "Jakarta"
   State: "Indonesia"
-  Images: ["/img/jakarta.jpg"]
-  # GoogleMapsKey: "my-secret-maps-key"
+  Images: ["/img/cover.jpg"]
+  GoogleMapsKey: "my-secret-maps-key"
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
