@@ -44,7 +44,7 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Register Coming Soon!"
+    text: "Registration Coming Soon!"
     link: "#"
 
   # List of Sponsors
