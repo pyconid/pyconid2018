@@ -16,12 +16,13 @@ params:
   City:  "Jakarta"
   State: "Indonesia"
   Images: ["/img/cover.jpg"]
-  GoogleMapsKey: "my-secret-maps-key"
+  # GoogleMapsKey: "my-secret-maps-key"
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
   Sections:
     - about
+    - cfp
     # - location
     # - speakers
     # - schedule
@@ -31,7 +32,8 @@ params:
 
   # Titles which you can translate to other languages
   Titles:
-    about: "Call for CFP"
+    about: "About"
+    cfp: "Call for Paper"
     location: "Location"
     speakers: "Speakers"
     schedule: "Schedule"

@@ -379,6 +379,9 @@ nav {
 /* =============================================================================
    ABOUT
    ========================================================================== */
+.sponsors,
+.partners,
+.cfp,
 .about {
   padding: 19px;
   margin: 0 -20px 0;
@@ -530,6 +533,9 @@ nav {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
   }
+  .sponsors,
+  .partners,
+  .cfp,
   .about {
     margin: 0;
   }
@@ -770,6 +776,9 @@ nav {
 /* =============================================================================
    ABOUT
    ========================================================================== */
+.sponsors,
+.partners,
+.cfp,
 .about {
   border: 1px solid #e7e7e7;
   background: #fff;
