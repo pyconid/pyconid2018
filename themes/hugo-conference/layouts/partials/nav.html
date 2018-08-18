@@ -1,12 +1,22 @@
 <nav id="nav">
   <ul class="wrapper">
-    {{ range $section := $.Site.Params.Sections }}
-      <li class="nav-item">
-        <a href="/#{{ $section }}" title="{{ index $.Site.Params.Titles $section }}" class="nav-link">
-          {{ index $.Site.Params.Titles $section }}
-        </a>
-      </li>
+    <li class="nav-item">
+      <a href="/" title="Home" class="nav-link">
+        Home
+      </a>
+    </li>
+    {{ range $page := $.Site.RegularPages }}
+    <li class="nav-item">
+      <a href="{{ $page.Permalink }}" title="{{ $page.Title }}" class="nav-link">
+        {{ $page.Title }}
+      </a>
+    </li>
     {{ end }}
+    <li class="nav-item">
+      <a href="mailto:halo@python.or.id" title="Contact" class="nav-link">
+        Contact
+      </a>
+    </li>
   </ul>
 </nav>
 
