@@ -284,7 +284,7 @@ hr {
   padding: 50px 0;
 }
 .content section {
-  padding-top: 50px;
+  padding-top: 25px;
 }
 /* =============================================================================
    BASIC STYLES
@@ -709,7 +709,7 @@ h6 {
    NAVIGATION
    ========================================================================== */
 nav {
-  background: #2b2b2b;
+  background: #214f87;
 }
 .nav-link {
   color: #e7e7e7;
@@ -771,7 +771,7 @@ nav {
 .content a:hover,
 .content a:focus {
   color: #fddd52;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 /* =============================================================================
    ABOUT
@@ -909,4 +909,49 @@ nav {
   .github-link {
     display: none;
   }
+}
+
+.footer {
+  margin-top: 1em;
+  width: 100%;
+  text-align: center;
+}
+
+.button {
+  background-color: #ffd343;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0,startColorstr='#FFFFDF76',endColorstr='#FFFFD343');
+  background-image: -webkit-gradient(linear,50% 0,50% 100%,color-stop(10%,#ffdf76),color-stop(90%,#ffd343));
+  background-image: -webkit-linear-gradient(#ffdf76 10%,#ffd343 90%);
+  background-image: -moz-linear-gradient(#ffdf76 10%,#ffd343 90%);
+  background-image: -o-linear-gradient(#ffdf76 10%,#ffd343 90%);
+  background-image: linear-gradient(#ffdf76 10%,#ffd343 90%);
+  border-top: 1px solid #dca900;
+  border-right: 1px solid #dca900;
+  border-bottom: 1px solid #dca900;
+  border-left: 1px solid #dca900;
+}
+
+a.button {
+  cursor: pointer;
+  color: #4d4d4d!important;
+  font-weight: normal;
+  margin-bottom: .4375em;
+  padding: .4em .75em .35em;
+  text-align: left;
+  white-space: nowrap;
+  /* text-shadow: 1px 1px 1px rgba(255,255,255,0.3); */
+  background-color: #ccc;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0,startColorstr='#FFD9D9D9',endColorstr='#FFCCCCCC');
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-box-shadow: 1px 1px 1px rgba(0,0,0,0.05), inset 0 0 5px rgba(255,255,255,0.5);
+  -moz-box-shadow: 1px 1px 1px rgba(0,0,0,0.05),inset 0 0 5px rgba(255,255,255,0.5);
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.05), inset 0 0 5px rgba(255,255,255,0.5);
+}
+
+a a:hover a:visited a:visited:hover {
+  text-decoration: none;
 }
