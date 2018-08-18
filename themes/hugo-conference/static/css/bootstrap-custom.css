@@ -10,3 +10,9 @@ a, a:hover, a:focus {
   margin: 0 auto;
   position: relative;
 }
+
+@media only screen and (max-width: 1024px) {
+  .display-2 {
+    font-size: 3em;
+  }
+}
