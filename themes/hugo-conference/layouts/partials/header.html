@@ -5,11 +5,13 @@
 {{ end }}
 
 <header class="header">
-  <div class="wrapper">
-    <h1 class="logo-name">
-      <a class="logo-link" href="/" title="{{ .name }}" itemprop="name">{{ .name }}</a>
-    </h1>
-    <h2 class="tagline">{{ .date }}, {{ .venue }}, {{ .city }}</h2>
+  <div class="wrapper-header">
+    <div class="transparency">
+      <h1 class="logo-name display-2">
+        <a class="logo-link" href="/" title="{{ .name }}" itemprop="name">{{ .name }}</a>
+      </h1>
+      <h2 class="tagline">{{ .date }}, {{ .venue }}, {{ .city }}</h2>
+    </div>
 
     <div class="call-action-area">
       {{ with .price }}

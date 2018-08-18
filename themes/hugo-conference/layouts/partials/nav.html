@@ -1,23 +1,34 @@
-<nav id="nav">
-  <ul class="wrapper">
-    <li class="nav-item">
-      <a href="/" title="Home" class="nav-link">
-        Home
-      </a>
-    </li>
-    {{ range $page := $.Site.RegularPages }}
-    <li class="nav-item">
-      <a href="{{ $page.Permalink }}" title="{{ $page.Title }}" class="nav-link">
-        {{ $page.Title }}
-      </a>
-    </li>
-    {{ end }}
-    <li class="nav-item">
-      <a href="mailto:halo@python.or.id" title="Contact" class="nav-link">
-        Contact
-      </a>
-    </li>
-  </ul>
+<nav class="navbar navbar-expand-lg navbar-dark">
+
+  <a class="navbar-brand" href="/">
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+    aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mx-auto">
+      <li class="nav-item active">
+        <a href="/" title="Home" class="nav-link">
+          Home
+        </a>
+      </li>
+      {{ range $page := $.Site.RegularPages }}
+      <li class="nav-item active">
+        <a href="{{ $page.Permalink }}" title="{{ $page.Title }}" class="nav-link">
+          {{ $page.Title }}
+        </a>
+      </li>
+      {{ end }}
+      <li class="nav-item active">
+        <a href="mailto:halo@python.or.id" title="Contact" class="nav-link">
+          Contact
+        </a>
+      </li>
+    </ul>
+  </div>
+
 </nav>
 
 <hr>

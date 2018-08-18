@@ -4,7 +4,7 @@
     <p itemprop="description">{{ .Content }}</p>
 </section>
 
-{{ range $section := (slice "sponsors" "partners" "contact") }}
+{{ range $section := (slice "contact") }}
 <section class="{{ $section }}" id="{{ $section }}">
   {{ partial $section $.Site.Params }}
 </section>
