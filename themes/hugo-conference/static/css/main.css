@@ -382,6 +382,7 @@ nav {
 .sponsors,
 .partners,
 .cfp,
+.page,
 .about {
   padding: 19px;
   margin: 0 -20px 0;
@@ -536,6 +537,7 @@ nav {
   .sponsors,
   .partners,
   .cfp,
+  .page,
   .about {
     margin: 0;
   }
@@ -779,6 +781,7 @@ nav {
 .sponsors,
 .partners,
 .cfp,
+.page,
 .about {
   border: 1px solid #e7e7e7;
   background: #fff;
