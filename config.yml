@@ -49,9 +49,9 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "Placeholder"
-      logo: "https://placehold.jp/bfbfbf/4a4a4a/250x250.jpg?text=Your%20Company"
-      url: "#"
+    - name: "Jetbrains"
+      logo: "/img/jetbrains.svg"
+      url: "https://www.jetbrains.com/"
     - name: "Placeholder"
       logo: "https://placehold.jp/bfbfbf/4a4a4a/250x250.jpg?text=Your%20Company"
       url: "#"
