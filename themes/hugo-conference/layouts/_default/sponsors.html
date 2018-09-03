@@ -1,0 +1,7 @@
+{{ define "main" }}
+
+{{ range $section := (slice "sponsors") }}
+<section class="{{ $section }}" id="{{ $section }}">
+  {{ partial $section $.Site.Params }}
+</section>
+{{ end }} {{ end }}
