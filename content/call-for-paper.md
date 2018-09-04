@@ -1,5 +1,5 @@
 ---
-title: "Call for Paper"
+title: "Speak at Pycon ID"
 date: 2018-08-18T17:07:13+07:00
 ---
 

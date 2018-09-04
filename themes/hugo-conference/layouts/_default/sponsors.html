@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+<section class="page" id="page">
+  <p itemprop="description">{{ .Content }}</p>
+</section>
+
 {{ range $section := (slice "sponsors") }}
 <section class="{{ $section }}" id="{{ $section }}">
   {{ partial $section $.Site.Params }}

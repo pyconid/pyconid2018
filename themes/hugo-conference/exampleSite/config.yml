@@ -25,7 +25,6 @@ params:
     - location
     - speakers
     - schedule
-    - sponsors
     - partners
     #- contact
 
