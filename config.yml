@@ -57,12 +57,9 @@ params:
         logo: "https://placehold.jp/bfbfbf/4a4a4a/250x250.jpg?text=Your%20Company"
         url: "#"
     Platinum:
-      - name: "Placeholder"
-        logo: "https://placehold.jp/bfbfbf/4a4a4a/250x250.jpg?text=Your%20Company"
-        url: "#"
-      - name: "Placeholder"
-        logo: "https://placehold.jp/bfbfbf/4a4a4a/250x250.jpg?text=Your%20Company"
-        url: "#"
+      - name: "Cloud Kilat"
+        logo: "/img/cloudkilat.png"
+        url: "https://www.cloudkilat.com/"
     Gold:
       - name: "Placeholder"
         logo: "https://placehold.jp/bfbfbf/4a4a4a/250x250.jpg?text=Your%20Company"
@@ -77,9 +74,6 @@ params:
       - name: "Jublia"
         logo: "/img/jublia.png"
         url: "https://jublia.com/"
-      - name: "Cloud Kilat"
-        logo: "/img/cloudkilat.png"
-        url: "https://www.cloudkilat.com/"
 
   # List of Partners
   Partners:
