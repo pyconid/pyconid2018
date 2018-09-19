@@ -77,6 +77,9 @@ params:
       - name: "Jublia"
         logo: "/img/jublia.png"
         url: "https://jublia.com/"
+      - name: "Cloud Kilat"
+        logo: "/img/cloudkilat.png"
+        url: "https://www.cloudkilat.com/"
 
   # List of Partners
   Partners:
