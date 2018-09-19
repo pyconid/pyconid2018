@@ -60,6 +60,9 @@ params:
       - name: "Cloud Kilat"
         logo: "/img/cloudkilat.png"
         url: "https://www.cloudkilat.com/"
+      - name: "Python Software Foundation"
+        logo: "/img/psf.png"
+        url: "https://www.python.org/psf/"
     Gold:
       - name: "Placeholder"
         logo: "https://placehold.jp/bfbfbf/4a4a4a/250x250.jpg?text=Your%20Company"
