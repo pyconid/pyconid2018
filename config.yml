@@ -27,6 +27,7 @@ params:
     # - speakers
     # - schedule
     # - code-of-conduct
+    - sponsors
     - partners
     - contact
 
