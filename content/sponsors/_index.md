@@ -1,6 +1,7 @@
 ---
 title: "Sponsors"
 layout: "sponsors"
+type: menu
 ---
 
 ### Sponsorship Prospectus

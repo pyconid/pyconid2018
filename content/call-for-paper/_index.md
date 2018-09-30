@@ -1,6 +1,7 @@
 ---
 title: "Speak at Pycon ID"
 date: 2018-08-18T17:07:13+07:00
+type: menu
 ---
 
 PyCon Indonesia is pleased to announce that the Call For Proposals is now open. We are calling out for speakers to share their Python knowledge which would intrigue the Python community at this event!

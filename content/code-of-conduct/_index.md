@@ -1,6 +1,7 @@
 ---
 title: "Code of Conduct"
 date: 2018-08-18T17:07:13+07:00
+type: menu
 ---
 
 <p>PyCon is a community conference intended for networking and collaboration in and between the Python developer and user communities.</p>

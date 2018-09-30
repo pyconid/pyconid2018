@@ -15,9 +15,9 @@
           Home
         </a>
       </li>
-      {{ range $page := $.Site.RegularPages }}
+      {{ range $page := $.Site.Sections }}
       <li class="nav-item active">
-        <a href="{{ $page.Permalink }}" title="{{ $page.Title }}" class="nav-link">
+        <a href="{{ $page.Permalink }}" title="{{ echoParam .Site.Params.Titles $page.Title }}" class="nav-link">
           {{ $page.Title }}
         </a>
       </li>
