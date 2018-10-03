@@ -1,3 +1,9 @@
++++
+title: "Accepted Proposals"
+date: 2018-10-04T17:01:13+07:00
+draft: false
++++
+
 List of Accepted Proposals
 
 <ul>
