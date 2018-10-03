@@ -4,7 +4,7 @@ date: 2018-10-04T17:01:13+07:00
 draft: false
 +++
 
-List of Accepted Proposals
+List of Accepted Proposals PyCon Indonesia 2018
 
 <ul>
 	<li>Adaptive Learning : Next Generation Platform</li>
