@@ -54,6 +54,10 @@ params:
 
   # List of Sponsors
   Sponsors:
+    Venue:
+      - name: "Kalbis Institute"
+        logo: "/img/kalbis.png"
+        url: "http://kalbis.ac.id/"
     Diamond:
 
     Platinum:
