@@ -25,7 +25,7 @@ params:
     - cfp
     # - location
     # - speakers
-    - schedule
+    # - schedule
     # - code-of-conduct
     - sponsors
     - partners
@@ -49,8 +49,8 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Registration Coming Soon!"
-    link: "#"
+    text: "Get your ticket!"
+    link: "https://tiket.pycon.id/"
 
   # List of Sponsors
   Sponsors:
