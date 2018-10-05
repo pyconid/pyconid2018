@@ -49,13 +49,8 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-<<<<<<< HEAD
-    text: "Register now!"
-    link: "https://tiket.pycon.id"
-=======
     text: "Get your ticket!"
     link: "https://tiket.pycon.id/"
->>>>>>> af43d9f5618171c69dd5058896bd8d04d032f772
 
   # List of Sponsors
   Sponsors:
