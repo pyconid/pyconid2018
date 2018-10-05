@@ -49,8 +49,8 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Registration Coming Soon!"
-    link: "#"
+    text: "Register now!"
+    link: "https://tiket.pycon.id"
 
   # List of Sponsors
   Sponsors:
