@@ -8,28 +8,10 @@
 </ul>
 
 <br>
-<h3 class="text-center">Diamond</h3>
-<hr>
-<ul class="sponsors-list text-center">
-  {{ range $sponsor := .sponsors.diamond }}
-  {{ partial "list_sponsors" . }}
-  {{ end }}
-</ul>
-
-<br>
 <h3 class="text-center">Platinum</h3>
 <hr>
 <ul class="sponsors-list text-center">
   {{ range $sponsor := .sponsors.platinum }}
-  {{ partial "list_sponsors" . }}
-  {{ end }}
-</ul>
-
-<br>
-<h3 class="text-center">Gold</h3>
-<hr>
-<ul class="sponsors-list text-center">
-  {{ range $sponsor := .sponsors.gold }}
   {{ partial "list_sponsors" . }}
   {{ end }}
 </ul>

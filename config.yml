@@ -67,6 +67,9 @@ params:
       - name: "Python Software Foundation"
         logo: "/img/psf.png"
         url: "https://www.python.org/psf/"
+      - name: "Shopee"
+        logo: "/img/shopee.png"
+        url: "https://shopee.co.id/"
     Gold:
 
     Silver:
@@ -76,6 +79,9 @@ params:
       - name: "Jublia"
         logo: "/img/jublia.png"
         url: "https://jublia.com/"
+      - name: "Alpha Teknologi Indonesia"
+        logo: "/img/ati.png"
+        url: "#"
 
   # List of Partners
   Partners:
