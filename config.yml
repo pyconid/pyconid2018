@@ -70,6 +70,9 @@ params:
       - name: "Shopee"
         logo: "/img/shopee.png"
         url: "https://shopee.co.id/"
+      - name: "Traveloka"
+        logo: "/img/traveloka.png"
+        url: "https://www.traveloka.com/"
     Gold:
 
     Silver:
