@@ -86,11 +86,19 @@ params:
         logo: "/img/ati.png"
         url: "#"
 
+    Ticket:
+      - name: "Valutac"
+        logo: "/img/valutac-logo.png"
+        url: "https://valutac.com/"
+
   # List of Partners
   Partners:
     - name: "Python Indonesia"
       logo: "/img/id-python-logo_400x400.png"
       url: "https://python.or.id"
+    - name: "Perkodi"
+      logo: "img/perkodi.png"
+      url: "#"
 
   # The entire schedule
   Schedule:
