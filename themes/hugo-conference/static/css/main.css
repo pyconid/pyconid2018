@@ -375,10 +375,10 @@ p {
   letter-spacing: -0.03em;
 }
 .speakers-name {
-  font-size: 1.6em;
+  font-size: 1.2em;
 }
 .speakers-item p {
-  font-size: 1.4em;
+  font-size: 1em;
 }
 /* =============================================================================
    SCHEDULE
@@ -394,7 +394,7 @@ p {
 .schedule-tbl th {
   position: relative;
   padding: 20px 30px;
-  font-size: 1.4em;
+  font-size: 1em;
   line-height: 1.4em;
   text-align: left;
 }
@@ -415,8 +415,10 @@ p {
   text-align: center;
 }
 .schedule-slot {
-  width: 250px;
   font-size: 16px;
+}
+.schedule-track {
+  margin-top: 1em;
 }
 .speakers-company {
   display: block;

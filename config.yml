@@ -59,6 +59,9 @@ params:
         logo: "/img/kalbis.png"
         url: "http://kalbis.ac.id/"
     Diamond:
+      - name: "Microsoft"
+        logo: "/img/microsoft.png"
+        url: "https://www.microsoft.com/id-id"
 
     Platinum:
       - name: "Cloud Kilat"
@@ -85,6 +88,9 @@ params:
       - name: "Alpha Teknologi Indonesia"
         logo: "/img/ati.png"
         url: "#"
+      - name: "Taralite"
+        logo: "/img/taralite.png"
+        url: "https://www.taralite.com/"
 
     Ticket:
       - name: "Valutac"
@@ -112,41 +118,265 @@ params:
       - name: "Keynote 1"
         time: "9h30"
 
-      - name: "Session 1"
+      - name: "Coffee Break 1"
         time: "10h10"
 
-      - name: "Coffee Break 1"
-        time: "11h00"
+      - name: "Session 1"
+        time: "10h30"
+        track:
+          - name: "Ken Sasongko"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "High-Performance Tensorflow on Modern CPU Architecture"
+
+          - name: "Agustinus Dony Riyanto"
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Enhancing Drone Application Development using Python and dronekit"
+
+          - name: "Arief Anbiya"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Twitter Data Visualization Models & Algorithm using Matplotlib"
 
       - name: "Session 2"
-        time: "11h20"
+        time: "11h10"
+        track:
+          - name: "Nino Eclarin"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Divide and Divide: Refactoring Code in Python"
+
+          - name: "Jason Wangsadinata"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Demystifying GRPC: The Modern Toolkit for Building Microservices"
+
+          - name: "Ilham Imaddudin"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Beyond Synchronous Python"
+
+        workshop:
+          - name: "Octaviano Pratama"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Music Classification using Deep Learning based on Python"
+          - name: "Azure Workshop"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Microsoft"
 
       - name: "Session 3"
-        time: "12h00"
+        time: "11h50"
+        track:
+          - name: "Bernd Verst"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Scaling your Flask development workflow - the container way"
+
+          - name: "Syarif Hidayatullah"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Real Time Data Transformation using Apache Beam Python SDK"
+
+          - name: "Ali Akbar Septriandri"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Predicting the Gender of Indonesian Names"
+
+          - name: "Welly Tambunan"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Algorithmic Trading for Indonesian Stock Market with Python"
 
       - name: "Lunch"
-        time: "12h35"
+        time: "12h25"
 
       - name: "Session 4"
-        time: "13h40"
+        time: "13h30"
+        track:
+          - name: "Bayu Aldi Yansyah"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "PyTorch for Deep Learning Practitioners"
+          - name: "Md Shahbaz Alam"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Securing your Django and Flask APIs with JWT"
+          - name: "Wildan Nur Karim"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Make Your Own Object Detection with Tensorflow and OpenCV"
+        workshop:
+          - name: "Tirtadwipa Manunggal"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Better Science Understanding with Sympy"
 
       - name: "Session 5"
-        time: "14h20"
+        time: "14h10"
+        track:
+          - name: "Ivan Torroledo"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Building next generation writers using AI"
+          - name: "Ramdhan Hidayat"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Acceptance Test Driven Development using Robot Framework"
+          - name: "Henra Kusumah"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Connect your things with Micropython"
+          - name: "R AdySurya A"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Image Generator On the Sky"
+          - name: "Tirtadwipa Manunggal"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Better Science Understanding with Sympy"
 
       - name: "Session 6"
-        time: "15h00"
+        time: "14h50"
+        track:
+          - name: "Ramdhan Hidayat"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Acceptance Test Driven Development using Robot Framework"
+          - name: "Harley Davidson Karel"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Scan Your Python Code"
+          - name: "Febby Oktaviani"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Dive into The Magic of Django ORM"
 
-      - name: "Coffee Break 2"
-        time: "15h35"
+      - name: "Open Space"
+        time: "14h50"
 
-      - name: "Session 7"
-        time: "15h55"
+      - name: "Coffee Break"
+        time: "15h25"
 
       - name: "Lightning Talk"
-        time: "16h35"
+        time: "15h50"
+        track:
+          - name: "Bayu Aldi Yansah"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Asynchronous Python at Kumparan"
+          - name: "Ngalim Siregar"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Python Dictionaries"
 
       - name: "Closing"
-        time: "17h10"
+        time: "16h40"
 
     second:
       - name: "Open Registration"
@@ -155,38 +385,219 @@ params:
       - name: "Keynote 2"
         time: "9h30"
 
-      - name: "Session 1"
-        time: "10h10"
-
       - name: "Coffee Break 1"
-        time: "11h00"
+        time: "11h10"
+
+      - name: "Session 1"
+        time: "10h30"
+        track:
+          - name: "Edwin Candinegara"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Django + gevent @ Shopee"
+
+          - name: "Akira Nonaka"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Introduction to the Django migration"
+
+          - name: "Iwan Setiawan"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Python-Defined Networking Using RouteFlow"
+
+          - name: "Wildan Nur Karim"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Make Your Own Object Detection with Tensorflow and OpenCV"
 
       - name: "Session 2"
-        time: "11h20"
+        time: "11h10"
+        track:
+          - name: "Chinab Chugh and Heri Rusmanto"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "From Zero to Hero for Managing your Servers"
+
+          - name: "Anthony Khong"
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "The Quest for Fast Python: PyPy, Numba, and Cython"
+
+          - name: "Trapsilo Bumi"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Modern Tech meets Traditional Music: Enhancing Angklung Performances with Python"
+
+          - name: "Afif Iskandar"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Strategi mengoptimalkan performa script Python"
+
+        workshop:
+          - name: "Aaron Maxwell"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Decoratord: Python’s Secret Weapon"
 
       - name: "Session 3"
-        time: "12h00"
+        time: "11h50"
+        track:
+          - name: "Tegar Imansyah"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Understanding IoT Data Protocol"
+
+          - name: "Lisbeth & Aditya Iftikar Riaddy"
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Behind The Scenes of Our Recommendation AI"
+
+          - name: "Aditthya Ramakrishnan"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Resurrecting the dead with deep learning"
+
+          - name: "Dwi Sulfahnur"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Fantastic learning experience for the student with Python MOOC Platform"
 
       - name: "Lunch"
-        time: "12h35"
+        time: "12h25"
 
       - name: "Session 4"
-        time: "13h40"
+        time: "13h30"
+        track:
+          - name: "Younggun Kim"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "“Ready, Get set, Go” all about the development sprints"
+
+          - name: "Bhagvan Kommandi"
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Adaptive Learning : Next Generation Platform"
+
+          - name: "Citra Hasana Sagala"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Predicting Potential Water Resource Area with Python"
+
+          - name: "N. Aliyah Salsabila"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Normalisasi Kosakata Slang pada Komentar Instagram dengan pendekatan Neural Machine Translation menggunakan seq2seq Keras"
 
       - name: "Session 5"
-        time: "14h20"
+        time: "14h10"
+        track:
+          - name: "Agustinus Dony Riyanto"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Enhancing Drone Application Development using Python and dronekit"
 
-      - name: "Session 6"
-        time: "15h00"
+          - name: "Ilya Alexander S."
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Python For All - From install, to everyday task, to.. *anything*"
+
+          - name: "Aan Wahyu"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Belati: Traditional Swiss Army Knife for OSINT"
+
+        workshop:
+          - name: "Zaki Ahmad"
+            photo: ""
+            company: ""
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Django Contribution 101"
 
       - name: "Coffee Break 2"
-        time: "15h35"
-
-      - name: "Session 7"
-        time: "15h55"
+        time: "15h25"
 
       - name: "Lightning Talk"
-        time: "16h35"
+        time: "15h45"
 
-      - name: "Closing"
-        time: "17h10"
+      - name: "Closing Remarks"
+        time: "16h45"
