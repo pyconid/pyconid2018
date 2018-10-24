@@ -125,6 +125,7 @@ params:
         time: "10h30"
         track:
           - name: "Ken Sasongko"
+            number: "1"
             photo: ""
             company: ""
             link:
@@ -132,23 +133,31 @@ params:
               text: "@linus"
             presentation:
               title: "High-Performance Tensorflow on Modern CPU Architecture"
-
-          - name: "Agustinus Dony Riyanto"
-            company: ""
-            link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
-            presentation:
-              title: "Enhancing Drone Application Development using Python and dronekit"
-
-          - name: "Arief Anbiya"
+          - name: "Noah"
+            number: "2"
             photo: ""
             company: ""
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
             presentation:
+              title: "PyCon in Asia"
+          - name: "Arief Anbiya"
+            company: ""
+            number: "3"
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
               title: "Twitter Data Visualization Models & Algorithm using Matplotlib"
+          - name: " R. AdySurya A."
+            company: ""
+            number: "4"
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Image Generator On the Sky"
 
       - name: "Session 2"
         time: "11h10"
@@ -156,6 +165,7 @@ params:
           - name: "Nino Eclarin"
             photo: ""
             company: ""
+            number: "1"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -165,6 +175,7 @@ params:
           - name: "Jason Wangsadinata"
             photo: ""
             company: ""
+            number: "2"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -174,6 +185,7 @@ params:
           - name: "Ilham Imaddudin"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -192,6 +204,7 @@ params:
           - name: "Azure Workshop"
             photo: ""
             company: ""
+            number: "4"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -204,6 +217,7 @@ params:
           - name: "Bernd Verst"
             photo: ""
             company: ""
+            number: "1"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -213,6 +227,7 @@ params:
           - name: "Syarif Hidayatullah"
             photo: ""
             company: ""
+            number: "2"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -222,20 +237,12 @@ params:
           - name: "Ali Akbar Septriandri"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
             presentation:
               title: "Predicting the Gender of Indonesian Names"
-
-          - name: "Welly Tambunan"
-            photo: ""
-            company: ""
-            link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
-            presentation:
-              title: "Algorithmic Trading for Indonesian Stock Market with Python"
 
       - name: "Lunch"
         time: "12h25"
@@ -246,6 +253,7 @@ params:
           - name: "Bayu Aldi Yansyah"
             photo: ""
             company: ""
+            number: "1"
             link:
               href: ""
               text: ""
@@ -254,6 +262,7 @@ params:
           - name: "Md Shahbaz Alam"
             photo: ""
             company: ""
+            number: "2"
             link:
               href: ""
               text: ""
@@ -262,6 +271,7 @@ params:
           - name: "Wildan Nur Karim"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: ""
               text: ""
@@ -283,6 +293,7 @@ params:
           - name: "Ivan Torroledo"
             photo: ""
             company: ""
+            number: "1"
             link:
               href: ""
               text: ""
@@ -291,6 +302,7 @@ params:
           - name: "Ramdhan Hidayat"
             photo: ""
             company: ""
+            number: "2"
             link:
               href: ""
               text: ""
@@ -299,19 +311,13 @@ params:
           - name: "Henra Kusumah"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: ""
               text: ""
             presentation:
               title: "Connect your things with Micropython"
-          - name: "R AdySurya A"
-            photo: ""
-            company: ""
-            link:
-              href: ""
-              text: ""
-            presentation:
-              title: "Image Generator On the Sky"
+        workshop:
           - name: "Tirtadwipa Manunggal"
             photo: ""
             company: ""
@@ -327,6 +333,7 @@ params:
           - name: "Ramdhan Hidayat"
             photo: ""
             company: ""
+            number: "1"
             link:
               href: ""
               text: ""
@@ -335,6 +342,7 @@ params:
           - name: "Harley Davidson Karel"
             photo: ""
             company: ""
+            number: "2"
             link:
               href: ""
               text: ""
@@ -343,6 +351,7 @@ params:
           - name: "Febby Oktaviani"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: ""
               text: ""
@@ -392,6 +401,7 @@ params:
         time: "10h30"
         track:
           - name: "Edwin Candinegara"
+            number: "1"
             photo: ""
             company: ""
             link:
@@ -403,6 +413,7 @@ params:
           - name: "Akira Nonaka"
             photo: ""
             company: ""
+            number: "2"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -412,6 +423,7 @@ params:
           - name: "Iwan Setiawan"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -421,6 +433,7 @@ params:
           - name: "Wildan Nur Karim"
             photo: ""
             company: ""
+            number: "4"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -433,6 +446,7 @@ params:
           - name: "Chinab Chugh and Heri Rusmanto"
             photo: ""
             company: ""
+            number: "1"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -441,6 +455,7 @@ params:
 
           - name: "Anthony Khong"
             company: ""
+            number: "2"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -450,6 +465,7 @@ params:
           - name: "Trapsilo Bumi"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -459,6 +475,7 @@ params:
           - name: "Afif Iskandar"
             photo: ""
             company: ""
+            number: "4"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -481,6 +498,7 @@ params:
           - name: "Tegar Imansyah"
             photo: ""
             company: ""
+            number: "1"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -489,6 +507,7 @@ params:
 
           - name: "Lisbeth & Aditya Iftikar Riaddy"
             company: ""
+            number: "2"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -498,6 +517,7 @@ params:
           - name: "Aditthya Ramakrishnan"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -507,6 +527,7 @@ params:
           - name: "Dwi Sulfahnur"
             photo: ""
             company: ""
+            number: "4"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -522,6 +543,7 @@ params:
           - name: "Younggun Kim"
             photo: ""
             company: ""
+            number: "1"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -530,6 +552,7 @@ params:
 
           - name: "Bhagvan Kommandi"
             company: ""
+            number: "2"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -539,6 +562,7 @@ params:
           - name: "Citra Hasana Sagala"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -548,6 +572,7 @@ params:
           - name: "N. Aliyah Salsabila"
             photo: ""
             company: ""
+            number: "4"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -560,6 +585,7 @@ params:
           - name: "Agustinus Dony Riyanto"
             photo: ""
             company: ""
+            number: "1"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -568,6 +594,7 @@ params:
 
           - name: "Ilya Alexander S."
             company: ""
+            number: "2"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -577,6 +604,7 @@ params:
           - name: "Aan Wahyu"
             photo: ""
             company: ""
+            number: "3"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"

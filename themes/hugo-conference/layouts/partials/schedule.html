@@ -23,7 +23,7 @@
                       <img class="photo" src="{{ . }}" alt="{{ $slot.name }}">
                     </span>
                   {{ end }}
-                  {{ .presentation.title }} - {{ .name }}
+                  {{ if ne .number nil }} Track {{ .number }} - {{end}}{{ .presentation.title }} - {{ .name }}
                   <span class="speakers-company">{{ .company }}</span>
                   </div>
               {{ end }}
@@ -39,7 +39,7 @@
                     <img class="photo" src="{{ . }}" alt="{{ $slot.name }}">
                   </span>
                   {{ end }}
-                  {{ .presentation.title }} - {{ .name }}
+                  {{ if ne .number nil }} Track {{ .number }} - {{end}}{{ .presentation.title }} - {{ .name }}
                   <span class="speakers-company">{{ .company }}</span>
                 </div>
               {{ end }}
@@ -83,7 +83,7 @@
               <img class="photo" src="{{ . }}" alt="{{ $slot.name }}">
             </span>
             {{ end }}
-            {{ .presentation.title }} - {{ .name }}
+            {{ if ne .number nil }} Track {{ .number }} - {{end}}{{ .presentation.title }} - {{ .name }}
             <span class="speakers-company">{{ .company }}</span>
           </div>
           {{ end }}
@@ -99,7 +99,7 @@
               <img class="photo" src="{{ . }}" alt="{{ $slot.name }}">
             </span>
             {{ end }}
-            {{ .presentation.title }} - {{ .name }}
+            {{ if ne .number nil }} Track {{ .number }} - {{end}}{{ .presentation.title }} - {{ .name }}
             <span class="speakers-company">{{ .company }}</span>
           </div>
           {{ end }}
