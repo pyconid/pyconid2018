@@ -132,8 +132,8 @@ params:
             photo: ""
             company: ""
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "High-Performance Tensorflow on Modern CPU Architecture"
           - name: "Noah"
@@ -141,24 +141,24 @@ params:
             photo: ""
             company: ""
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "PyCon in Asia"
           - name: "Arief Anbiya"
             company: ""
             number: "3"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Twitter Data Visualization Models & Algorithm using Matplotlib"
           - name: " R. AdySurya A."
             company: ""
             number: "4"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Image Generator On the Sky"
 
@@ -170,8 +170,8 @@ params:
             company: ""
             number: "1"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Describing Descriptors"
 
@@ -180,8 +180,8 @@ params:
             company: ""
             number: "2"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Demystifying GRPC: The Modern Toolkit for Building Microservices"
 
@@ -190,8 +190,8 @@ params:
             company: ""
             number: "3"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Beyond Synchronous Python"
 
@@ -200,8 +200,8 @@ params:
             photo: ""
             company: ""
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Music Classification using Deep Learning based on Python"
           - name: "Azure Workshop"
@@ -209,8 +209,8 @@ params:
             company: ""
             number: "4"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Microsoft"
 
@@ -222,8 +222,8 @@ params:
             company: ""
             number: "1"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Scaling your Flask development workflow - the container way"
 
@@ -232,8 +232,8 @@ params:
             company: ""
             number: "2"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Real Time Data Transformation using Apache Beam Python SDK"
 
@@ -242,8 +242,8 @@ params:
             company: ""
             number: "3"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Predicting the Gender of Indonesian Names"
 
@@ -285,8 +285,8 @@ params:
             photo: ""
             company: ""
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Better Science Understanding with Sympy"
 
@@ -408,8 +408,8 @@ params:
             photo: ""
             company: ""
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Django + gevent @ Shopee"
 
@@ -418,8 +418,8 @@ params:
             company: ""
             number: "2"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Introduction to the Django migration"
 
@@ -428,8 +428,8 @@ params:
             company: ""
             number: "3"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Python-Defined Networking Using RouteFlow"
 
@@ -438,8 +438,8 @@ params:
             company: ""
             number: "4"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Make Your Own Object Detection with Tensorflow and OpenCV"
 
@@ -451,8 +451,8 @@ params:
             company: ""
             number: "1"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "From Zero to Hero for Managing your Servers"
 
@@ -460,8 +460,8 @@ params:
             company: ""
             number: "2"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "The Quest for Fast Python: PyPy, Numba, and Cython"
 
@@ -470,8 +470,8 @@ params:
             company: ""
             number: "3"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Modern Tech meets Traditional Music: Enhancing Angklung Performances with Python"
 
@@ -480,8 +480,8 @@ params:
             company: ""
             number: "4"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Strategi mengoptimalkan performa script Python"
 
@@ -490,8 +490,8 @@ params:
             photo: ""
             company: ""
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Decoratord: Python’s Secret Weapon"
 
@@ -503,8 +503,8 @@ params:
             company: ""
             number: "1"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Understanding IoT Data Protocol"
 
@@ -512,8 +512,8 @@ params:
             company: ""
             number: "2"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Behind The Scenes of Our Recommendation AI"
 
@@ -522,8 +522,8 @@ params:
             company: ""
             number: "3"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Resurrecting the dead with deep learning"
 
@@ -532,8 +532,8 @@ params:
             company: ""
             number: "4"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Fantastic learning experience for the student with Python MOOC Platform"
 
@@ -548,8 +548,8 @@ params:
             company: ""
             number: "1"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "“Ready, Get set, Go” all about the development sprints"
 
@@ -557,8 +557,8 @@ params:
             company: ""
             number: "2"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Adaptive Learning : Next Generation Platform"
 
@@ -567,8 +567,8 @@ params:
             company: ""
             number: "3"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Predicting Potential Water Resource Area with Python"
 
@@ -577,8 +577,8 @@ params:
             company: ""
             number: "4"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Normalisasi Kosakata Slang pada Komentar Instagram dengan pendekatan Neural Machine Translation menggunakan seq2seq Keras"
 
@@ -590,8 +590,8 @@ params:
             company: ""
             number: "1"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Enhancing Drone Application Development using Python and dronekit"
 
@@ -599,8 +599,8 @@ params:
             company: ""
             number: "2"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Python For All - From install, to everyday task, to.. *anything*"
 
@@ -609,8 +609,8 @@ params:
             company: ""
             number: "3"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Belati: Traditional Swiss Army Knife for OSINT"
 
@@ -619,8 +619,8 @@ params:
             photo: ""
             company: ""
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Django Contribution 101"
 
@@ -632,8 +632,8 @@ params:
             company: ""
             number: "1"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "Divide and Divide: Refactoring Code in Python"
           - name: ""
@@ -641,8 +641,8 @@ params:
             company: ""
             number: "1"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "PyLadies Session"
           - name: "Python Indonesia"
@@ -650,8 +650,8 @@ params:
             company: ""
             number: "1"
             link:
-              href: "http://twitter.com/linus"
-              text: "@linus"
+              href: ""
+              text: ""
             presentation:
               title: "L10n Sprint"
 
