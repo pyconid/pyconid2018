@@ -15,7 +15,7 @@ params:
   Address: "Jl. Pulomas Selatan kav.22, Jakarta Timur 13210"
   City:  "Jakarta"
   State: "Indonesia"
-  Images: ["/img/cover.jpg"]
+  Images: ["img/cover.jpg"]
   # GoogleMapsKey: "my-secret-maps-key"
 
   # Active sections on the website to deactivate comment out with '#'
@@ -56,40 +56,40 @@ params:
   Sponsors:
     Venue:
       - name: "Kalbis Institute"
-        logo: "/img/kalbis.png"
+        logo: "img/kalbis.png"
         url: "http://kalbis.ac.id/"
     Diamond:
       - name: "Microsoft"
-        logo: "/img/microsoft.png"
+        logo: "img/microsoft.png"
         url: "https://www.microsoft.com/id-id"
 
     Platinum:
       - name: "Cloud Kilat"
-        logo: "/img/cloudkilat.png"
+        logo: "img/cloudkilat.png"
         url: "https://www.cloudkilat.com/"
       - name: "Python Software Foundation"
-        logo: "/img/psf.png"
+        logo: "img/psf.png"
         url: "https://www.python.org/psf/"
       - name: "Shopee"
-        logo: "/img/shopee.png"
+        logo: "img/shopee.png"
         url: "https://shopee.co.id/"
       - name: "Traveloka"
-        logo: "/img/traveloka.png"
+        logo: "img/traveloka.png"
         url: "https://www.traveloka.com/"
     Gold:
 
     Silver:
       - name: "Jetbrains"
-        logo: "/img/jetbrains.svg"
+        logo: "img/jetbrains.svg"
         url: "https://www.jetbrains.com/"
       - name: "Jublia"
-        logo: "/img/jublia.png"
+        logo: "img/jublia.png"
         url: "https://jublia.com/"
       - name: "Alpha Teknologi Indonesia"
-        logo: "/img/ati.png"
+        logo: "img/ati.png"
         url: "https://www.linkedin.com/company/alphateknologiindonesia/"
       - name: "Taralite"
-        logo: "/img/taralite.png"
+        logo: "img/taralite.png"
         url: "https://www.taralite.com/"
       - name: "Xoxzo"
         logo: "img/xoxzo.png"
@@ -97,13 +97,13 @@ params:
 
     Ticket:
       - name: "Valutac"
-        logo: "/img/valutac-logo.png"
+        logo: "img/valutac-logo.png"
         url: "https://valutac.com/"
 
   # List of Partners
   Partners:
     - name: "Python Indonesia"
-      logo: "/img/id-python-logo_400x400.png"
+      logo: "img/id-python-logo_400x400.png"
       url: "https://python.or.id"
     - name: "Perkodi"
       logo: "img/perkodi.png"
