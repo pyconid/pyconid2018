@@ -91,6 +91,9 @@ params:
       - name: "Taralite"
         logo: "/img/taralite.png"
         url: "https://www.taralite.com/"
+      - name: "Xoxzo"
+        logo: "img/xoxzo.png"
+        url: "https://www.xoxzo.com/en/"
 
     Ticket:
       - name: "Valutac"
