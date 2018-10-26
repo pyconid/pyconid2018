@@ -165,7 +165,7 @@ params:
       - name: "Session 2"
         time: "11h10"
         track:
-          - name: "Nino Eclarin"
+          - name: "Matthew Egan"
             photo: ""
             company: ""
             number: "1"
@@ -173,7 +173,7 @@ params:
               href: "http://twitter.com/linus"
               text: "@linus"
             presentation:
-              title: "Divide and Divide: Refactoring Code in Python"
+              title: "Describing Descriptors"
 
           - name: "Jason Wangsadinata"
             photo: ""
@@ -237,7 +237,7 @@ params:
             presentation:
               title: "Real Time Data Transformation using Apache Beam Python SDK"
 
-          - name: "Ali Akbar Septriandri"
+          - name: "Ali Akbar Septiandri"
             photo: ""
             company: ""
             number: "3"
@@ -623,6 +623,37 @@ params:
               text: "@linus"
             presentation:
               title: "Django Contribution 101"
+
+      - name: "Session 6"
+        time: "14h50"
+        track:
+          - name: "Nino Eclarin"
+            photo: ""
+            company: ""
+            number: "1"
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "Divide and Divide: Refactoring Code in Python"
+          - name: ""
+            photo: ""
+            company: ""
+            number: "1"
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "PyLadies Session"
+          - name: "Python Indonesia"
+            photo: ""
+            company: ""
+            number: "1"
+            link:
+              href: "http://twitter.com/linus"
+              text: "@linus"
+            presentation:
+              title: "L10n Sprint"
 
       - name: "Coffee Break 2"
         time: "15h25"
