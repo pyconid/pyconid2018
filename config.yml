@@ -639,7 +639,7 @@ params:
           - name: ""
             photo: ""
             company: ""
-            number: "1"
+            number: "3"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
@@ -648,7 +648,7 @@ params:
           - name: "Python Indonesia"
             photo: ""
             company: ""
-            number: "1"
+            number: "4"
             link:
               href: "http://twitter.com/linus"
               text: "@linus"
