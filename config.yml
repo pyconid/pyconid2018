@@ -196,14 +196,14 @@ params:
               title: "Beyond Synchronous Python"
 
         workshop:
-          - name: "Octaviano Pratama"
+          - name: "Zaki Ahmad"
             photo: ""
             company: ""
             link:
               href: ""
               text: ""
             presentation:
-              title: "Music Classification using Deep Learning based on Python"
+              title: "Django Contribution 101"
           - name: "Azure Workshop"
             photo: ""
             company: ""
@@ -615,14 +615,14 @@ params:
               title: "Belati: Traditional Swiss Army Knife for OSINT"
 
         workshop:
-          - name: "Zaki Ahmad"
+          - name: "Octaviano Pratama"
             photo: ""
             company: ""
             link:
               href: ""
               text: ""
             presentation:
-              title: "Django Contribution 101"
+              title: "Music Classification using Deep Learning based on Python"
 
       - name: "Session 6"
         time: "14h50"
