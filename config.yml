@@ -493,7 +493,7 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Decoratord: Python’s Secret Weapon"
+              title: "Decorators: Python’s Secret Weapon"
 
       - name: "Session 3"
         time: "11h50"
