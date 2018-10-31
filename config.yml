@@ -204,7 +204,7 @@ params:
               text: ""
             presentation:
               title: "Django Contribution 101"
-          - name: "Azure Workshop"
+          - name: "Agus Suparno"
             photo: ""
             company: ""
             number: "4"
@@ -212,7 +212,7 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Microsoft"
+              title: "Microsoft Azure Machine Learning"
 
       - name: "Session 3"
         time: "11h50"
@@ -253,7 +253,7 @@ params:
       - name: "Session 4"
         time: "13h30"
         track:
-          - name: "Bayu Aldi Yansyah"
+          - name: "Aussie Haryono"
             photo: ""
             company: ""
             number: "1"
@@ -261,8 +261,8 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "PyTorch for Deep Learning Practitioners"
-          - name: "Md Shahbaz Alam"
+              title: "Automating insight discovery & delivery with Python"
+          - name: "Harley Davidson Karel"
             photo: ""
             company: ""
             number: "2"
@@ -270,8 +270,8 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Securing your Django and Flask APIs with JWT"
-          - name: "Wildan Nur Karim"
+              title: "Scan Your Python Code"
+          - name: "Md Shahbaz Alam"
             photo: ""
             company: ""
             number: "3"
@@ -279,21 +279,12 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Make Your Own Object Detection with Tensorflow and OpenCV"
-        workshop:
-          - name: "Tirtadwipa Manunggal"
-            photo: ""
-            company: ""
-            link:
-              href: ""
-              text: ""
-            presentation:
-              title: "Better Science Understanding with Sympy"
+              title: "Securing your Django and Flask APIs with JWT"
 
       - name: "Session 5"
         time: "14h10"
         track:
-          - name: "Ivan Torroledo"
+          - name: "Akira Nonaka"
             photo: ""
             company: ""
             number: "1"
@@ -301,8 +292,8 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Building next generation writers using AI"
-          - name: "Ramdhan Hidayat"
+              title: "Introduction to the Django migration"
+          - name: "Welly Tambunan"
             photo: ""
             company: ""
             number: "2"
@@ -310,7 +301,7 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Acceptance Test Driven Development using Robot Framework"
+              title: "Algorithmic Trading for Indonesian Stock Market with Python"
           - name: "Henra Kusumah"
             photo: ""
             company: ""
@@ -342,7 +333,7 @@ params:
               text: ""
             presentation:
               title: "Acceptance Test Driven Development using Robot Framework"
-          - name: "Harley Davidson Karel"
+          - name: "Doni Rubiagatra"
             photo: ""
             company: ""
             number: "2"
@@ -350,7 +341,7 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Scan Your Python Code"
+              title: "Interactive Python Dashboards with Plotly and Dash"
           - name: "Febby Oktaviani"
             photo: ""
             company: ""
@@ -360,9 +351,6 @@ params:
               text: ""
             presentation:
               title: "Dive into The Magic of Django ORM"
-
-      - name: "Open Space"
-        time: "14h50"
 
       - name: "Coffee Break"
         time: "15h25"
@@ -386,6 +374,14 @@ params:
               text: ""
             presentation:
               title: "Python Dictionaries"
+          - name: "Octaviano Pratama"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Music Classification using Deep Learning based on Python"
 
       - name: "Closing"
         time: "16h40"
@@ -413,7 +409,7 @@ params:
             presentation:
               title: "Django + gevent @ Shopee"
 
-          - name: "Akira Nonaka"
+          - name: "Iwan Setiawan"
             photo: ""
             company: ""
             number: "2"
@@ -421,9 +417,9 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Introduction to the Django migration"
+              title: "Python-Defined Networking Using RouteFlow"
 
-          - name: "Iwan Setiawan"
+          - name: "Aan Wahyu"
             photo: ""
             company: ""
             number: "3"
@@ -431,7 +427,7 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Python-Defined Networking Using RouteFlow"
+              title: "Belati: Traditional Swiss Army Knife for OSINT"
 
           - name: "Wildan Nur Karim"
             photo: ""
@@ -604,7 +600,7 @@ params:
             presentation:
               title: "Python For All - From install, to everyday task, to.. *anything*"
 
-          - name: "Aan Wahyu"
+          - name: "Bayu Aldi Yansyah"
             photo: ""
             company: ""
             number: "3"
@@ -612,7 +608,7 @@ params:
               href: ""
               text: ""
             presentation:
-              title: "Belati: Traditional Swiss Army Knife for OSINT"
+              title: "PyTorch for Deep Learning Practitioners"
 
         workshop:
           - name: "Octaviano Pratama"
