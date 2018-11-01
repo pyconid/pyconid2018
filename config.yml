@@ -194,16 +194,6 @@ params:
               text: ""
             presentation:
               title: "Beyond Synchronous Python"
-
-        workshop:
-          - name: "Aaron Maxwell"
-            photo: ""
-            company: ""
-            link:
-              href: ""
-              text: ""
-            presentation:
-              title: "Decorators: Python’s Secret Weapon"
           - name: "Agus Suparno"
             photo: ""
             company: ""
@@ -213,6 +203,15 @@ params:
               text: ""
             presentation:
               title: "Microsoft Azure Machine Learning"
+        workshop:
+          - name: "Aaron Maxwell"
+            photo: ""
+            company: ""
+            link:
+              href: ""
+              text: ""
+            presentation:
+              title: "Decorators: Python’s Secret Weapon"
 
       - name: "Session 3"
         time: "11h50"
