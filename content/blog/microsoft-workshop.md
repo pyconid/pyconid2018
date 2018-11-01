@@ -8,4 +8,4 @@ In collaboration with Microsoft, Python ID will have a workshop entitled “Micr
 
 <a class="button" target="_blank" href="https://goo.gl/forms/xa0w8iElk95C86Wz1">Register</a>
 
-The seat is limited, so hurry up register yourself.
+The seat is limited, so hurry up and register yourself.
