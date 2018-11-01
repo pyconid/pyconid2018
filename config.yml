@@ -196,14 +196,14 @@ params:
               title: "Beyond Synchronous Python"
 
         workshop:
-          - name: "Zaki Ahmad"
+          - name: "Aaron Maxwell"
             photo: ""
             company: ""
             link:
               href: ""
               text: ""
             presentation:
-              title: "Django Contribution 101"
+              title: "Decorators: Python’s Secret Weapon"
           - name: "Agus Suparno"
             photo: ""
             company: ""
@@ -482,14 +482,14 @@ params:
               title: "Strategi mengoptimalkan performa script Python"
 
         workshop:
-          - name: "Aaron Maxwell"
+          - name: "Zaki Ahmad"
             photo: ""
             company: ""
             link:
               href: ""
               text: ""
             presentation:
-              title: "Decorators: Python’s Secret Weapon"
+              title: "Django Contribution 101"
 
       - name: "Session 3"
         time: "11h50"
