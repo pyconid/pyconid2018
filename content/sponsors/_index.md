@@ -70,6 +70,6 @@ Bronze Include:
 * Logo and mention at plenary session
 * mentions in press releases conference news items, email and social media messages to the community
 
-<a class="button" target="_blank" href="sponsorship-prospectus.pdf">Download Sponsorship Prospectus</a>
+<a class="button" target="_blank" href="/sponsorship-prospectus.pdf">Download Sponsorship Prospectus</a>
 
 If you are interested and wish to sponsor PyCon Indonesia, then please contact us via conf@python.or.id.
