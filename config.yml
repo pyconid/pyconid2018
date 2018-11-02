@@ -12,7 +12,7 @@ params:
   Date: "November 3-4"
   # Price: "" # If your event is free, just comment this line
   Venue: "Kalbis Institute"
-  Address: "Jl. Pulomas Selatan kav.22, Jakarta Timur 13210"
+  Address: "Jl. Pulomas Selatan kav.22, Jakarta Timur 13:10"
   City:  "Jakarta"
   State: "Indonesia"
   Images: ["img/cover.jpg"]
@@ -113,19 +113,19 @@ params:
   Schedule:
     first:
       - name: "Open Registration"
-        time: "8h00"
+        time: "8:00"
 
       - name: "Opening Speech"
-        time: "9h00"
+        time: "9:00"
 
       - name: "Keynote 1"
-        time: "9h30"
+        time: "9:30"
 
       - name: "Coffee Break 1"
-        time: "10h10"
+        time: "10:10"
 
       - name: "Session 1"
-        time: "10h30"
+        time: "10:30"
         track:
           - name: "Ken Sasongko"
             number: "1"
@@ -163,7 +163,7 @@ params:
               title: "Image Generator On the Sky"
 
       - name: "Session 2"
-        time: "11h10"
+        time: "11:10"
         track:
           - name: "Matthew Egan"
             photo: ""
@@ -214,7 +214,7 @@ params:
               title: "Decorators: Python’s Secret Weapon"
 
       - name: "Session 3"
-        time: "11h50"
+        time: "11:50"
         track:
           - name: "Bernd Verst"
             photo: ""
@@ -250,7 +250,7 @@ params:
         time: "12h25"
 
       - name: "Session 4"
-        time: "13h30"
+        time: "13:30"
         track:
           - name: "Aussie Haryono"
             photo: ""
@@ -281,7 +281,7 @@ params:
               title: "Securing your Django and Flask APIs with JWT"
 
       - name: "Session 5"
-        time: "14h10"
+        time: "14:10"
         track:
           - name: "Akira Nonaka"
             photo: ""
@@ -321,7 +321,7 @@ params:
               title: "Better Science Understanding with Sympy"
 
       - name: "Session 6"
-        time: "14h50"
+        time: "14:50"
         track:
           - name: "Ramdhan Hidayat"
             photo: ""
@@ -355,7 +355,7 @@ params:
         time: "15h25"
 
       - name: "Lightning Talk"
-        time: "15h50"
+        time: "15:50"
         track:
           - name: "Bayu Aldi Yansah"
             photo: ""
@@ -383,20 +383,20 @@ params:
               title: "Music Classification using Deep Learning based on Python"
 
       - name: "Closing"
-        time: "16h40"
+        time: "16:40"
 
     second:
       - name: "Open Registration"
-        time: "8h30"
+        time: "8:30"
 
       - name: "Keynote 2"
-        time: "9h30"
+        time: "9:30"
 
       - name: "Coffee Break 1"
-        time: "11h10"
+        time: "11:10"
 
       - name: "Session 1"
-        time: "10h30"
+        time: "10:30"
         track:
           - name: "Edwin Candinegara"
             number: "1"
@@ -439,7 +439,7 @@ params:
               title: "Make Your Own Object Detection with Tensorflow and OpenCV"
 
       - name: "Session 2"
-        time: "11h10"
+        time: "11:10"
         track:
           - name: "Chinab Chugh and Heri Rusmanto"
             photo: ""
@@ -491,7 +491,7 @@ params:
               title: "Django Contribution 101"
 
       - name: "Session 3"
-        time: "11h50"
+        time: "11:50"
         track:
           - name: "Tegar Imansyah"
             photo: ""
@@ -536,7 +536,7 @@ params:
         time: "12h25"
 
       - name: "Session 4"
-        time: "13h30"
+        time: "13:30"
         track:
           - name: "Younggun Kim"
             photo: ""
@@ -578,7 +578,7 @@ params:
               title: "Normalisasi Kosakata Slang pada Komentar Instagram dengan pendekatan Neural Machine Translation menggunakan seq2seq Keras"
 
       - name: "Session 5"
-        time: "14h10"
+        time: "14:10"
         track:
           - name: "Agustinus Dony Riyanto"
             photo: ""
@@ -620,7 +620,7 @@ params:
               title: "Music Classification using Deep Learning based on Python"
 
       - name: "Session 6"
-        time: "14h50"
+        time: "14:50"
         track:
           - name: "Nino Eclarin"
             photo: ""
