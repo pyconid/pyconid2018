@@ -373,14 +373,6 @@ params:
               text: ""
             presentation:
               title: "Python Dictionaries"
-          - name: "Octaviano Pratama"
-            photo: ""
-            company: ""
-            link:
-              href: ""
-              text: ""
-            presentation:
-              title: "Music Classification using Deep Learning based on Python"
 
       - name: "Closing"
         time: "16:40"
