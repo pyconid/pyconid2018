@@ -1,0 +1,18 @@
+a, a:hover, a:focus {
+    text-decoration: none;
+}
+
+.transparency {
+  background: rgba(0,0,0,0.5);
+}
+
+.wrapper-header {
+  margin: 0 auto;
+  position: relative;
+}
+
+@media only screen and (max-width: 1024px) {
+  .display-2 {
+    font-size: 3em;
+  }
+}

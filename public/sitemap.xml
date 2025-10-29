@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>./blog/microsoft-workshop/</loc>
+    <lastmod>2018-11-01T17:01:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/speaker-proposals/</loc>
+    <lastmod>2018-10-04T17:01:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./code-of-conduct/</loc>
+    <lastmod>2018-08-18T17:07:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./call-for-paper/</loc>
+    <lastmod>2018-08-18T17:07:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/cloudkilat/</loc>
+    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/jublia/</loc>
+    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/psf/</loc>
+    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/shopee/</loc>
+    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./blog/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./</loc>
+    <lastmod>2018-11-01T17:01:13+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./schedule/</loc>
+  </url>
+  
+  <url>
+    <loc>./sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>./tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

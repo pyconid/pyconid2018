@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyCon Indonesia 2018</title>
+    <link>./</link>
+    <description>Recent content on PyCon Indonesia 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Nov 2018 17:01:13 +0700</lastBuildDate>
+    
+	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft Azure Machine Learning Workshop</title>
+      <link>./blog/microsoft-workshop/</link>
+      <pubDate>Thu, 01 Nov 2018 17:01:13 +0700</pubDate>
+      
+      <guid>./blog/microsoft-workshop/</guid>
+      <description>In collaboration with Microsoft, Python ID will have a workshop entitled “Microsoft Azure Machine Learning”. This workshop will be mentored by Agus Suparno. He is a Microsoft MVP with experience on Machine Learning. To join this wonderful workshop, please fill this form below.
+Register
+The seat is limited, so hurry up and register yourself.</description>
+    </item>
+    
+    <item>
+      <title>Accepted Proposals</title>
+      <link>./blog/speaker-proposals/</link>
+      <pubDate>Thu, 04 Oct 2018 17:01:13 +0700</pubDate>
+      
+      <guid>./blog/speaker-proposals/</guid>
+      <description>List of Accepted Proposals PyCon Indonesia 2018
+ Adaptive Learning : Next Generation Platform Algorithmic Trading for Indonesian Stock Market with Python Asynchronous Python at Kumparan Behind The Scenes of Our Recommendation AI Belati: Traditional Swiss Army Knife for OSINT Better Science Understanding with Sympy Beyond Synchronous Python Building next generation writers using AI Cartography Using Python Connect your things with Micropython Decorators: Python&amp;rsquo;s Secret Weapon Demystifying GRPC: The Modern Toolkit for Building Microservices Describing Descriptors Dive into The Magic of Django ORM Divide and Divide: Refactoring Code in Python Django Contribution 101 Enhancing Drone Application Development using Python and dronekit enjoy type hinting and its benefits Fantastic learning experience for the student with Python MOOC Platform.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Cloudkilat as our Platinum Sponsor</title>
+      <link>./blog/cloudkilat/</link>
+      <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
+      
+      <guid>./blog/cloudkilat/</guid>
+      <description>We are happy to announce CloudKilat as Platinum Sponsor of PyCon Indonesia 2018
+Began the operation in 2007 with the first Hosted Exchange service in Indonesia, PT Infinys System Indonesia (Infinys) is the pioneer and one of the leader in the Cloud Computing industry in the country.
+Infinys services are ranging from Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) applied on: Cloud Server, virtual server service with with various Linux and Windows server operatig system to choose from.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Jublia as our Silver Sponsor</title>
+      <link>./blog/jublia/</link>
+      <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
+      
+      <guid>./blog/jublia/</guid>
+      <description>We are happy to announce Jublia as Silver Sponsor of PyCon Indonesia 2018
+At Jublia, we believe in enabling people to discover useful content and meet relevant others through intelligent matching technologies at events.
+We are proud to do our small part within the community to sponsor this coming edition of PYCON INDONESIA 2018. After a successful exposure as a sponsor in PYCON APAC 2018, we are glad to go to Indonesia, where we have an active team of Python software engineers.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Python Software Foundation as our Platinum Sponsor</title>
+      <link>./blog/psf/</link>
+      <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
+      
+      <guid>./blog/psf/</guid>
+      <description>We are happy to announce Python Software Foundation (PSF) as our Platinum sponsor for PyCon Indonesia 2018!
+Here’s mission statement of PSF: The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers.
+We are very thankful to PSF for supporting the PyCon community by sponsorship to PyCon Indonesia 2018!</description>
+    </item>
+    
+    <item>
+      <title>Announcing Shopee as our Platinum Sponsor</title>
+      <link>./blog/shopee/</link>
+      <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
+      
+      <guid>./blog/shopee/</guid>
+      <description>Shopee is the leading e-commerce platform in Southeast Asia and Taiwan. It is a platform tailored for the region, providing customers with an easy, secure and fast online shopping experience through strong payment and logistical support. Since its launch, Shopee has gained exponential growth. As of Q2 2018, Shopee has recorded a prestigious achievement of 2.2 Billion USD in Gross Merchandise Value (GMV) with around 160 million downloads across the region.</description>
+    </item>
+    
+  </channel>
+</rss>
