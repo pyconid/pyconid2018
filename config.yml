@@ -1,4 +1,4 @@
-baseurl: "https://pycon.id/"
+baseurl: "https://2018.pycon.id/"
 title: "PyCon Indonesia 2018"
 canonifyurls: true
 theme: "hugo-conference"
@@ -50,7 +50,7 @@ params:
   # If you don't want this, just remove the callToAction property.
   CallToAction:
     text: "Get your ticket!"
-    link: "https://tiket.pycon.id/"
+    link: "#"
 
   # List of Sponsors
   Sponsors:
