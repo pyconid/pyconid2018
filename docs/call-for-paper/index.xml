@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speak at Pycon ID on PyCon Indonesia 2018</title>
-    <link>./call-for-paper/</link>
+    <link>https://2018.pycon.id/call-for-paper/</link>
     <description>Recent content in Speak at Pycon ID on PyCon Indonesia 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 18 Aug 2018 17:07:13 +0700</lastBuildDate>
     
-	<atom:link href="./call-for-paper/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://2018.pycon.id/call-for-paper/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PyCon Indonesia 2018</title>
-    <link>./tags/</link>
+    <link>https://2018.pycon.id/tags/</link>
     <description>Recent content in Tags on PyCon Indonesia 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://2018.pycon.id/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
